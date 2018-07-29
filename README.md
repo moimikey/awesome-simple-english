@@ -1,5 +1,4 @@
 # awesome-simple-english
-awesome simple english written articles about technology
 
 english is, like, hard. here are some easy to read articles.
 
