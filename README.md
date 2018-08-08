@@ -1,4 +1,4 @@
-# awesome-simple-english
+# 📖 awesome-simple-english
 
 english is, like, hard. here are some easy to read articles.
 
