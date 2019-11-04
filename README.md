@@ -14,6 +14,7 @@ english is, like, hard. here are some easy to read articles.
 * Memoization in a Nutshell (https://dev.to/pieohpah/memoization-in-a-nutshell-5072)
 * Recursion Made Simple (https://medium.com/code-zen/recursion-demystified-24867f045c62)
 * The Super Tiny Compiler (https://github.com/jamiebuilds/the-super-tiny-compiler)
+* The Actor Model in 10 Minutes (https://www.brianstorti.com/the-actor-model)
 
 ## Web Technology
 
