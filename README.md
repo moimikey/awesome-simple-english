@@ -23,3 +23,7 @@ english is, like, hard. here are some easy to read articles.
 ## Programming
 
 * The Most Convoluted JavaScript Fizz Buzz Solution (https://www.dalejefferson.com/convoluted-fizzbuzz/)
+
+## React
+
+* What React refs really are (https://huth.me/what-react-refs-really-are)
