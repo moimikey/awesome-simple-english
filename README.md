@@ -27,3 +27,4 @@ english is, like, hard. here are some easy to read articles.
 ## React
 
 * What React refs really are (https://huth.me/what-react-refs-really-are)
+* `useEffect` vs `useLayoutEffect` (https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
