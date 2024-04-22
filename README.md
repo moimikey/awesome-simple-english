@@ -4,6 +4,7 @@ english is, like, hard. here are some easy to read articles.
 
 ## Databases
 
+* Database Fundamentals (https://tontinton.com/posts/database-fundementals)
 * Database Sharding in Plain English (https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/)
 
 ## Design Concepts
