@@ -1,6 +1,6 @@
 # 📖 awesome-simple-english
 
-english is, like, hard. here are some easy to read articles.
+Here are some easy-to-digest articles.
 
 ## Databases
 
@@ -21,6 +21,7 @@ english is, like, hard. here are some easy to read articles.
 ## Web Technology
 
 * Dead simple WebRTC explanation (https://medium.com/@ermirsuldashi/dead-simple-webrtc-explanation-e09ae718a577)
+* Patterns for Building Realtime Features (https://zknill.io/posts/patterns-for-building-realtime)
 
 ## Programming
 
